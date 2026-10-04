@@ -68,5 +68,5 @@ class USAspendingClient:
             data = response.json()
         results = data.get("results", [])
         if not isinstance(results, list):
-            raise ValueError("Unexpected USAspending response shape")
+            raise TypeError("Unexpected USAspending response shape")
         return results
