@@ -1,5 +1,7 @@
 # AlphaWatch — Systematic Market Research & Validation Platform
 
+![tests](https://github.com/adammohamedalex2000-lang/alphawatch-research-platform/actions/workflows/tests.yml/badge.svg)
+
 AlphaWatch is a **research-first software project** for turning public corporate and government data into structured, testable market hypotheses.
 
 This repository is the **portfolio edition** of a larger experimental research archive. It preserves the parts that best demonstrate the engineering and research methodology while intentionally excluding generated state, private/local configuration, historical clutter, broker-facing experiments, and internal operator files.
